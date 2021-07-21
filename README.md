@@ -2,4 +2,5 @@
 
 1. map()
 2. zip()
-3. apply()
+3. filter()
+4. apply()
